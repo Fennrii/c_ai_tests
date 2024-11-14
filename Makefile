@@ -1,0 +1,2 @@
+build:
+	g++ test.cpp
